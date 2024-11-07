@@ -3,3 +3,4 @@
 
 Документация:
 Через unity открыть файл и просмотреть его работу. Редактировать стоит при нажатии на файлы через scripts.
+![image](https://github.com/user-attachments/assets/910a5f84-bd0a-4f6a-8690-66be5f4cbf1a)
